@@ -1,0 +1,37 @@
+.button_primary  {
+border: none;
+  color: white;
+  /*padding: 20px;*/
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+ /* font-size: 16px;*/
+  margin: 10px 2px;
+  width: 40%;
+}
+.button_secondary  {
+border: none;
+  color: black;
+  /*padding: 20px;*/
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+ /* font-size: 16px;*/
+  margin: 4px 2px;
+  width: 40%;
+}
+.input_box{
+	 margin: auto;
+	 display: inline-block;
+    float: right;
+}
+.container{
+    width: 400px;
+    margin: 0 auto ;
+	/*text-align: center;*/
+
+}
+.update {
+	text-align:center;
+}
+
