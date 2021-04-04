@@ -84,7 +84,7 @@ error_reporting(0);
 						/*."&" . "usernameError=$username");*/
 			}
 		}
-echo '<a href="https://github.com/mclapsaddle/crudApplet-persons">Go to GitHub</a>'; 
+
 ?>
 <!DOCTYPE html>
 <html lang "en-US">
@@ -123,7 +123,7 @@ echo '<a href="https://github.com/mclapsaddle/crudApplet-persons">Go to GitHub</
 			<button class ="button_secondary btn-lg btn-secondary btn-block"
 			 onclick = "location.href = 'register_persons.php'"
                 type="button" name="join"> Join </button>
-            
+       <a href="https://github.com/mclapsaddle/crudApplet-persons">Go to GitHub</a>
         </form>
 		</div>
     </body>
